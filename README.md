@@ -35,9 +35,6 @@ python speedtest.py
 Configuration
 You can change the URL and file size in the script to test different sources and files.
 
-License
-This project is distributed under the MIT License.
-
 
 This file lists the dependencies for the project.
 
