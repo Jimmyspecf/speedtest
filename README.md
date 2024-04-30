@@ -1,7 +1,6 @@
 # SpeedTest Script
 
-A simple yet powerful Python script for measuring download speeds from a server. This script can be particularly useful for network performance monitoring, diagnostics, and ensuring that your internet service provider is delivering the speeds you are paying for. The idea is to make a speedtest script following the example of the service https://speed.limited 
-But using Python and uploading/downloading your own file (see the "file_url" string below).
+A simple yet powerful Python script for measuring download speeds from a server. This script can be particularly useful for network performance monitoring, diagnostics, and ensuring that your internet service provider is delivering the speeds you are paying for. The idea is to make a speedtest script similar to https://speed.limited, with the difference being using Python with the ability to upload/download your own file (see the “file_url” line below).
 
 ## Description
 
