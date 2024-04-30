@@ -64,7 +64,7 @@ def test_download_speed(download_url, file_size):
     
     print(f"Download speed: {speed_mbps:.2f} Mbps")
 
-file_url = 'https://example.com/largefile.zip'
+file_url = 'https://example.com/anylargefile.zip'
 file_size_in_bytes = 100000000  # Replace with the actual file size in bytes
 test_download_speed(file_url, file_size_in_bytes)
 
